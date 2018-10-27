@@ -1,4 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Wellfleet);
+body {background-image:url(http://javascriptbook.com/code/c04/images/teacher.png);
+      background-size:contain;
+} 
 
 body {
 	background-color: #523620;
@@ -29,6 +31,8 @@ h1 {
 	height: 596px;
 	padding: 10px;
 	min-width: 779px;}
+#page2 {
+	height: 730px;}
 
 #answer {
 	border: 12px double #fff;
